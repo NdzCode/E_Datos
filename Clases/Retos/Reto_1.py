@@ -1,7 +1,7 @@
 import numpy as np
 
 
-Aleatorio=np.random.randint(3,10,7)
+Aleatorio=np.random.randint(0,10,7)
 
 print(f'Orden aleatorio {Aleatorio}')
 
